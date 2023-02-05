@@ -10,4 +10,4 @@ input:
 
 ```
 
-I assume you know the output if you've watched **S05E05**, still try...
+I assume you know the output if you've watched **S05E05**
